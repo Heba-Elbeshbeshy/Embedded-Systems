@@ -1,3 +1,6 @@
 [submodule "Sw-for-Hw-Interfacing"]
 	path = Sw-for-Hw-Interfacing
 	url = https://github.com/Heba-Elbeshbeshy/Sw-for-Hw-Interfacing
+[submodule "Coding-For-Embedded"]
+	path = Coding-For-Embedded
+	url = https://github.com/Heba-Elbeshbeshy/Coding-For-Embedded
