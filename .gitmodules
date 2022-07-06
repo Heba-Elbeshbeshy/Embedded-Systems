@@ -4,3 +4,6 @@
 [submodule "Coding-For-Embedded"]
 	path = Coding-For-Embedded
 	url = https://github.com/Heba-Elbeshbeshy/Coding-For-Embedded
+[submodule "traffic_light_system"]
+	path = traffic_light_system
+	url = https://github.com/Ta7a21/traffic_light_system
